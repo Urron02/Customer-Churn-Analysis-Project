@@ -7,7 +7,8 @@ The objective of this project is to analyze customer churn behavior in a banking
 ## Dataset Used 📈
 
 The project utilizes a customer-level banking dataset containing 10,000 customer records, including attributes such as age, gender, geography, balance, credit score, tenure, product count, credit card ownership, activity status, salary, and churn flag (Exited). Data was cleaned, validated, and modeled using SQL and Power BI to ensure accurate churn analysis.
--Dataset - 
+
+-Dataset - <a href="https://github.com/Urron02/Customer-Churn-Analysis-Project/blob/main/Churn_Modelling.csv"> View Dataset
 
 ## Key Questions (KPIs) 📍
 
