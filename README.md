@@ -36,5 +36,6 @@ Customers with lower tenure and specific balance ranges exhibited increased chur
 ## Final Conclusion 🎖️
 
 This project demonstrates how customer churn analytics can uncover behavioral and financial patterns leading to customer attrition. By leveraging Power BI, DAX, and SQL, the dashboard provides actionable insights that enable banks to identify high-risk customer segments, improve retention strategies, and support data-driven decision-making.
-
 Gender-based analysis revealed differences in churn distribution across segments.
+
+-Dashboard Interaction - <a href="https://github.com/Urron02/Customer-Churn-Analysis-Project/blob/main/Screenshot%202025-12-31%20005320.png"> View Dashboard
